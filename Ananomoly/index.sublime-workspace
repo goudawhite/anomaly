@@ -1,0 +1,367 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"Button"
+			],
+			[
+				"new",
+				"newcomments"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"hand",
+				"handleClick"
+			],
+			[
+				"han",
+				"handleClick"
+			],
+			[
+				"th",
+				"three-d"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"num",
+				"numbers"
+			],
+			[
+				"curren",
+				"currentValue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"l",
+				"lastName"
+			],
+			[
+				"firts",
+				"firstName"
+			],
+			[
+				"my",
+				"myFavoriteChar"
+			],
+			[
+				"second",
+				"secondNum"
+			],
+			[
+				"de",
+				"dealerArray"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"time",
+				"timesTen"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"get",
+				"getFormvalue"
+			],
+			[
+				"on",
+				"onclick\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"dat",
+				"dates"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"bo",
+				"body\tTag"
+			],
+			[
+				"he",
+				"head\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/b2t/Desktop/Ananomoly/css/style.css",
+		"/index.html",
+		"/css",
+		"/Users/b2t/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/b2t/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/DISK_IMG/BLKDOVELOCALSEAFOODDELI.html",
+		"/Users/b2t/Desktop/events-walkthrough/.GITIGNORE",
+		"/Volumes/NO NAME/digitalPortfolio/index.html",
+		"/Volumes/NO NAME/ronyDeli/blipsAndChitz.html",
+		"/Volumes/NO NAME/digitalPortfolio/projects.html",
+		"/Volumes/NO NAME/digitalPortfolio/experience.html",
+		"/Volumes/NO NAME/digitalPortfolio/dpStyle.css",
+		"/Volumes/NO NAME/digitalPortfolio/aboutMe.html",
+		"/Volumes/NO NAME/digitalPortfolio/digitalPortfolio.html",
+		"/Users/b2t/Desktop/digitalPortfolio/digitalPortfolio.html",
+		"/Users/b2t/Documents/what-are-props-walkthough/src/Todo.js",
+		"/Users/b2t/Documents/what-are-props-walkthough/src/index.js",
+		"/Users/b2t/Documents/what-are-props-walkthough/src/App.js",
+		"/Users/b2t/Desktop/digitalPortfolio/experience.html",
+		"/Users/b2t/Desktop/digitalPortfolio/aboutMe.html",
+		"/Users/b2t/Desktop/digitalPortfolio/DigitalPortfolio.html",
+		"/Users/b2t/Desktop/digitalPortfolio/AboutMe.html",
+		"/Users/b2t/Documents/get-test/templates/test.html",
+		"/Users/b2t/Documents/get-test/test.html",
+		"/Users/b2t/Documents/reactJS/what-are-props-walkthough/src/index.html",
+		"/Users/b2t/Documents/reactJS/what-are-props-walkthough/src/App.test.js",
+		"/Users/b2t/Documents/reactJS/what-are-props-walkthough/src/App.js",
+		"/Users/b2t/Documents/reactJS/what-are-props-walkthough/src/Todo.js",
+		"/Users/b2t/Desktop/Haus-of-Code-Cycle-1/new.html",
+		"/Users/b2t/Desktop/Haus-of-Code-Cycle-1/untitled.html",
+		"/Users/b2t/Desktop/list.css",
+		"/Users/b2t/Desktop/React_Day_2.html",
+		"/Users/b2t/Desktop/ES6_MJH.html",
+		"/Users/b2t/Desktop/index.html",
+		"/Volumes/KINGSTON/September29/Assets/Merrishel/arraysanddom.html",
+		"/Volumes/KINGSTON/September29/OrderingArrays/DevorahOrdersArray.html",
+		"/Volumes/KINGSTON/TITACTO/TICTACTO1.html",
+		"/Volumes/KINGSTON/TITACTO/what theHEYTICTACTO1.html",
+		"/Volumes/KINGSTON/TITACTO/TICTACTO2.html",
+		"/Users/b2t/Documents/finalProject.html",
+		"/Users/b2t/Desktop/D.headley.html",
+		"/untitled.html",
+		"/Users/b2t/Desktop/test.html",
+		"/Users/b2t/Desktop/script.js",
+		"/Users/b2t/Desktop/style.css",
+		"/Users/b2t/Desktop/moreTest.html",
+		"/Users/b2t/Desktop/helloWorld.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
